@@ -54,16 +54,18 @@ p {
   margin-top: 12px;
   padding: 18px 21px;
   border-radius: 5px;
-  background-color: #f02e4e;
+  background-color: #6bae63;
   font-family: Montserrat, sans-serif;
   color: white;
   font-size: 20px;
   text-align: center;
   text-decoration: none;
+  /*original color #f02e4e*/
 }
 .middle-name {
   font-family: Montserrat, sans-serif;
-  color: #6bae63;
+  color: #306230;
+  /*orignial color #6bae63*/
 }
 .title-logo {
   padding: 0px;
